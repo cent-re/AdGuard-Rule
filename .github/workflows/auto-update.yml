@@ -12,6 +12,10 @@ on:
 env:
   TZ: Asia/Shanghai
 
+permissions:
+    contents: write
+    actions: write
+
 jobs:
   Update_Filters:
     runs-on: ubuntu-latest
@@ -40,8 +44,8 @@ jobs:
           else
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
-            git config --local user.email "xjianglin@gmail.com"
-            git config --local user.name "hululu1068"
+            git config --local user.email "872538475@qq.com"
+            git config --local user.name "centerzx"
             git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
           fi
 
