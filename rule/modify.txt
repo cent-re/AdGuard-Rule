@@ -1,4 +1,4 @@
-# Update time: 2026-07-18 09:50:51
+# Update time: 2026-07-18 20:58:28
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -298,7 +298,6 @@ wykop.pl$badfilter
 .gameleads.ru^
 @@||belgium.wolterskluwer.com^|
 @@|www3.doubleclick.net^|
-||*.exaapi.com^
 @@||prod.impartner.live^|
 .webhop.net^
 @@||click.simba.taobao.com^|
@@ -374,3 +373,4 @@ wykop.pl$badfilter
 ||*conversions.appsflyersdk.com^
 ||*register.appsflyersdk.com^
 /^.+stat\.kugou\.com/
+||*.exaapi.com^
