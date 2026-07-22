@@ -1,4 +1,4 @@
-# Update time: 2026-07-22 09:58:37
+# Update time: 2026-07-22 21:26:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -261,6 +261,7 @@ wykop.pl$badfilter
 @@||app.appsflyer.com^|
 @@||anwb.webpower.eu^|
 -ulogl*.kwai-pro.com^
+-1080x180-
 @@||gate.first-id.fr^|
 @@||tms.capitalone.com^|
 @@||secureimage.securedataimages.com^|
