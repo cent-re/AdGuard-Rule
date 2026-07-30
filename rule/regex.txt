@@ -1,4 +1,4 @@
-# Update time: 2026-07-29 21:52:38
+# Update time: 2026-07-30 09:48:36
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -193,6 +193,7 @@ analytics-*.aasaam.com
 ||ubt.tracking.shopee.
 ||as*.prog.hu^
 ||cnt.tubeon.
+||faro.civitai.
 ||videoclik.
 ||poshalim.
 ||track.tiara.
@@ -340,7 +341,6 @@ analytics-*.aasaam.com
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
 ||poptraf.
-||vns86.oss-*.aliyuncs.com^
 ||v*.sitecounter.site^
 ||touch.yesim.
 ||pixel*.production-public.tubi.io^
@@ -653,3 +653,4 @@ analytics-*.aasaam.com
 ||analytics*.prezly.com^
 ||collector*.ex.co^
 ||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
