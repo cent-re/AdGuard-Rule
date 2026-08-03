@@ -1,4 +1,4 @@
-# Update time: 2026-08-03 10:06:38
+# Update time: 2026-08-03 22:22:42
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -114,6 +114,7 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||adservice.google.
+||trace-*.free-reels.com^
 ||counter*.stat.ovh^
 |load.sst.
 ||ads.livetv*.me^
@@ -122,10 +123,12 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||prebid-*.rubiconproject.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
+||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
 ||partner.superbahisaffiliates*.com^
 ||107.167.22.*.gif
+||trace-*.hungrypanda.co^
 ||v.tzbox*.xyz^
 ||cnt.vivatube.
 ||rotabanner.
@@ -177,6 +180,8 @@ analytics-*.aasaam.com
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
+||track.*.roku.com^
+||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -202,7 +207,6 @@ analytics-*.aasaam.com
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||util-*.simply-hentai.com^
-||umami.vidfast.
 ||adserver1.
 ||ad*.mellesleg.hu^
 ||rtb-*.anysex.com^
@@ -212,6 +216,7 @@ analytics-*.aasaam.com
 ||adx-*.dbankcloud.
 ||pop-parad.
 ||mediate-ios-*.hyprmx.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mediacontext.
 ||videoclick.
 ||broredir*s.site^
@@ -303,18 +308,24 @@ analytics-*.aasaam.com
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||minitds-*.info^
+||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
+||ya*.dwstatic.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
+||track-*.hungrypanda.co^
+||tracking-*.trnox.com^
+||telemetry.*.pvp.net^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
 ||mobiadvert*.livesportmedia.eu^
 ||popunder.
+||livetracker.*.pangea-cms.com^
 ||stat.tiara.
 ||fpb1.chinacar.
 ||rotator.
@@ -331,14 +342,12 @@ analytics-*.aasaam.com
 ||orderana*.spankbang.com^
 ||sd.yhzzzs*.com^
 ||mcs-normal-*.capcutapi.com^
-||trace-*.free-reels.com^
 ||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
 ||ads*.dfiles.ru^
 ||log*-normal-*.tiktokv.us^
 ||hw-sh-pcdn-*.biliapi.net^
 ||faro-collector-prod-*.grafana.net^
-||ysdm*.ys137.com.cn^
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
 ||eflbundles.*.com.tr^
@@ -347,7 +356,6 @@ analytics-*.aasaam.com
 ||collector-*.us.tvsquared.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
-||trace-*.hungrypanda.co^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||telemetry*.transcend.io^
 ||collector-*.perimeterx.net^
@@ -396,7 +404,6 @@ analytics-*.aasaam.com
 ||flurry.agentportal.*.yahoodns.net^
 ||rtlog*.tiktokv.com^
 ||ads.*.kugou.com^
-||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||clickstream-*.homedepot.com^
 ||log*-normal-useast1a.lemon8-app.com^
@@ -424,8 +431,6 @@ analytics-*.aasaam.com
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
-||track.*.roku.com^
-||install*.zonastat.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -470,7 +475,6 @@ analytics-*.aasaam.com
 ||mads*z.com^
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||admicro*.vcmedia.vn^
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
@@ -627,24 +631,18 @@ analytics-*.aasaam.com
 ||iad-*.appboy.com^
 ||ping*.bidease.com^
 ||bdlm*.hc360.com^
-||jtbo*.nqxvevk.cn^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
-||ya*.dwstatic.com^
 ||iad-*.braze.com^
-||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
-||tracking-*.trnox.com^
-||telemetry.*.pvp.net^
 ||analytics-v*.eip.telegraph.co.uk^
 ||gtlpa*.com^
 ||gbxreport-*.wf.com^
 ||ad.*.360.cn^
 ||spa-tracker*.spapi.io^
 ||gcw*.2liang.cn^
-||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||quangcao-*.epicdn.me^
 ||aem-collector-*.kgslb.com^
