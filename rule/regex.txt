@@ -1,4 +1,4 @@
-# Update time: 2026-08-23 08:54:22
+# Update time: 2026-08-23 20:24:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -176,6 +176,7 @@ analytics-*.aasaam.com
 ||107.167.16.*.gif
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
+||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
 ||tracking*.euroads.fi^
@@ -439,7 +440,6 @@ analytics-*.aasaam.com
 ||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^

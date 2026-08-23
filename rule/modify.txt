@@ -1,4 +1,4 @@
-# Update time: 2026-08-23 08:54:22
+# Update time: 2026-08-23 20:24:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -127,6 +127,7 @@
 @@||promo.gramedia.com^|
 @@||tlaol.com^|
 @@||ads.tdbank.com^|
+||*two-gun-volley.pages.dev^
 @@|adsterra.com^|
 /^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
 @@||citiintl.122.2o7.net^|
@@ -378,7 +379,6 @@ wykop.pl$badfilter
 ||*-default-cn.rum.aliyuncs.com^
 /^adsrvmedia\./
 ||*-applog.fqnovel.com^
-||*two-gun-volley.pages.dev^
 /^omgmtaw\./
 /^admarvel\./
 ||*adapt-beacon.awsprodops.movetv.com^
