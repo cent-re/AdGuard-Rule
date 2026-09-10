@@ -1,4 +1,4 @@
-# Update time: 2026-09-10 10:28:52
+# Update time: 2026-09-10 23:37:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -128,7 +128,6 @@
 @@||promo.gramedia.com^|
 @@||tlaol.com^|
 @@||ads.tdbank.com^|
-||*two-gun-volley.pages.dev^
 @@|adsterra.com^|
 /^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
 @@||citiintl.122.2o7.net^|
@@ -311,7 +310,6 @@ wykop.pl$badfilter
 .gameleads.ru^
 @@||belgium.wolterskluwer.com^|
 @@|www3.doubleclick.net^|
-||*.exaapi.com^
 @@||prod.impartner.live^|
 .webhop.net^
 @@||click.simba.taobao.com^|
@@ -337,6 +335,7 @@ wykop.pl$badfilter
 -728-x-90-
 -728-x-90.
 @@||www.dogpile.com^|
+@@||used.ca^|
 /^188\.42\.84\.\d{1,3}/
 @@||click.cptrack.de^|
 *ad.durasite.net^
@@ -380,6 +379,7 @@ wykop.pl$badfilter
 ||*-default-cn.rum.aliyuncs.com^
 /^adsrvmedia\./
 ||*-applog.fqnovel.com^
+||*two-gun-volley.pages.dev^
 /^omgmtaw\./
 /^admarvel\./
 ||*adapt-beacon.awsprodops.movetv.com^
@@ -387,3 +387,4 @@ wykop.pl$badfilter
 ||*conversions.appsflyersdk.com^
 ||*register.appsflyersdk.com^
 /^.+stat\.kugou\.com/
+||*.exaapi.com^
