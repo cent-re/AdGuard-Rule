@@ -1,4 +1,4 @@
-# Update time: 2026-09-12 22:46:16
+# Update time: 2026-09-13 10:30:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -177,7 +177,6 @@ analytics-*.aasaam.com
 ||107.167.16.*.gif
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
-||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
 ||tracking*.euroads.fi^
@@ -216,7 +215,6 @@ analytics-*.aasaam.com
 ||letssex.
 ||production-adserver-*.amazonaws.com^
 ||ad-host-backup-*.aliyuncs.com^
-||sonar*.xy.fbcdn.net^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -245,13 +243,10 @@ analytics-*.aasaam.com
 ||buzzer.xhamster*
 ||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
-||servo-report.keepstreams.*^
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
-||sdk-*.moengage.com^
 ||ad*.on.cc^
 ||stats.*.ronghub.com^
 ||v*-ad.video.yximgs.com^
@@ -311,16 +306,13 @@ analytics-*.aasaam.com
 ||collector.hamsterix.
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||matomo-demo-*.amazonaws.com^
-||sdk.fra-*.braze.eu^
 ||me9ddf.moebelix.
-||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||ad*.bilgin.pro^
 ||tnc*.tiktokv.com^
 ||px*.mediahills.ru^
 ||ulog.*.kwai-pro.com^
-||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||rotaban.
 ||tw-726620180914.*.run.app^
@@ -330,7 +322,6 @@ analytics-*.aasaam.com
 ||cnt.proporn.
 ||popuptraf.
 ||ulog*.kwaipros.com^
-||events-*.op.hicloud.com^
 ||vst.videolink.
 |load.gtm.
 ||ssp*.rtb.beeline.ru^
@@ -448,6 +439,7 @@ analytics-*.aasaam.com
 ||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
+||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
@@ -484,6 +476,7 @@ analytics-*.aasaam.com
 ||mon-v*-boot.capcutapi.com^
 ||n*adserv.xyz^
 ||piwik.*.vn^
+||sonar*.xy.fbcdn.net^
 ||adsfilebssdlbig.*.kugou.com^
 ||mautic.*.vn^
 ||mcs-*.lemon8-app.us^
@@ -517,12 +510,14 @@ analytics-*.aasaam.com
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
+||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clickhouse-collector.*.prod.plat.agency^
 ||collector-*.luigisbox.com^
 ||logreport-global-dual.cool*cloud.com^
 ||clog*.yuanfudao.com^
 ||htm*.hepsiburada.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
@@ -531,6 +526,7 @@ analytics-*.aasaam.com
 ||w*.*skwai.com^
 ||logs.collector.*.cloud.solarwinds.com^
 ||analytics-*-nfl.yinzcam.com^
+||sdk-*.moengage.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
 ||stun.*.kugou.com^
@@ -597,14 +593,17 @@ analytics-*.aasaam.com
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
+||sdk.fra-*.braze.eu^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
+||sensorsdata*.read.duokan.com^
 ||logstash-*.radio-canada.ca^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
 ||report.*.qq.com^
 ||matomo.*.vn^
 ||log-*.isnssdk.com^
+||static*.365inews.com^
 ||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
 ||api*.batmobi.net^
@@ -620,6 +619,7 @@ analytics-*.aasaam.com
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
