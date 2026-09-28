@@ -1,4 +1,4 @@
-# Update time: 2026-09-28 10:56:23
+# Update time: 2026-09-29 03:03:41
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -186,7 +186,6 @@ analytics-*.aasaam.com
 ||ad*.gyaloglo.hu^
 ||adverticum.*.hu^
 ||dw-informer-*.newsru.com^
-||ad*.zonaplus.tv^
 |piwik.
 ||production-adserver-*.amazonaws.com^
 ||cl*.k5a.io^
@@ -246,7 +245,6 @@ analytics-*.aasaam.com
 ||mon*-*.tiktokv.com^
 ||collector-*.px-client.net^
 ||ads*-normal*.zijieapi.com^
-||ad-*.amazonaws.com^
 ||tnc*.zijieapi.com^
 ||tracker.twenga.
 ||rehs.*.hu^
@@ -286,7 +284,6 @@ analytics-*.aasaam.com
 ||ad*.thisisgame.com^
 ||minitds-*.info^
 ||snowplow-collector-*.amazonaws.com^
-||aan.amazon.*^
 ||ms*.applvn.com^
 ||track-*.hungrypanda.co^
 ||tracking-*.trnox.com^
@@ -373,7 +370,6 @@ analytics-*.aasaam.com
 ||get-me-wow.
 ||ubt.tracking.shopee.
 ||as*.prog.hu^
-||ad-*.appacc.dbankedge.cn^
 ||cnt.tubeon.
 ||videoclik.
 ||faro.civitai.
@@ -394,7 +390,6 @@ analytics-*.aasaam.com
 ||letssex.
 ||ad-host-backup-*.aliyuncs.com^
 ||sonar*.xy.fbcdn.net^
-||ad*.nexage.com^
 ||analytics.ahrefs.
 ||util-*.simply-hentai.com^
 ||collect-elb-*.amazonaws.com^
@@ -464,9 +459,7 @@ analytics-*.aasaam.com
 ||web-visor.
 ||1024wanzhai.
 ||api*.batmobil.net^
-||acr-*-prd.samsungcloud.tv^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adcounter*.uptolike.ru^
 ||tupian888.*.bcebos.com^
 ||stats.mapple.*^
 ||cdn*.swaxis.com^
@@ -567,12 +560,15 @@ analytics-*.aasaam.com
 ||prod.*.publishers.advertising.a2z.com^
 ||fpb*.51edu.com^
 ||display-ad-*.kgslb.com^
+||acr-*-prd.samsungcloud.tv^
 ||ej1*.online^
 ||log-*.epicdn.me^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad*.ettoday.net^
+||ad-*.amazonaws.com^
 ||xy-*pcdn.msstatic.com^
 ||impservice*.yodao.com^
 ||js.*2023*.xyz^
@@ -608,6 +604,7 @@ analytics-*.aasaam.com
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||aj3*.bid^
+||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
 ||log*-*.tiktokv.com^
 ||zbc6hye*.xyz^
@@ -625,14 +622,17 @@ analytics-*.aasaam.com
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
+||ad*.zonaplus.tv^
 ||n*adserv.xyz^
 ||piwik.*.vn^
 ||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||mautic.*.vn^
 ||bdlm*.hc360.com^
+||ad*.nexage.com^
 ||aj1*.xyz^
 ||chat*-ce.chatdealer.jp^
+||aan.amazon.*^
 ||collector-*.px-cloud.net^
 ||iad-*.braze.com^
 ||bjsvp*.space^

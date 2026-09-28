@@ -1,4 +1,4 @@
-# Update time: 2026-09-28 10:56:23
+# Update time: 2026-09-29 03:03:41
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -204,6 +204,7 @@ wykop.pl$badfilter
 @@||id.i2i.jp^|
 .adonweb.ru^
 -banner-ads.
+@@||emails.educause.edu^|
 @@||track.rutarget.ru^|
 .n.2.1.js^
 /^(a|c)\.[0-9a-f]{56}\.com$/
