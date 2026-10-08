@@ -1,4 +1,4 @@
-# Update time: 2026-10-08 11:53:31
+# Update time: 2026-10-09 02:16:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -267,6 +267,7 @@ wykop.pl$badfilter
 @@||support-beacon.nakanohito.jp^|
 /^94\.242\.247\.(2[0-9]|3[0-2])/
 -iklan2.
+@@||spartaindependent.com^|
 @@||email.elitedangerous.com^|
 /^88\.208\.22\.[1234]$/
 @@||app.appsflyer.com^|
