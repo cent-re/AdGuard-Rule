@@ -1,4 +1,4 @@
-# Update time: 2026-10-17 10:28:05
+# Update time: 2026-10-17 22:46:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -128,6 +128,7 @@ analytics-*.aasaam.com
 ||collector-*.perimeterx.net^
 ||advert*.ultraweb.hu^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||flipflapflo.
 ||gonews*.net^
 ||f-log-*.grammarly.io^
@@ -182,7 +183,6 @@ analytics-*.aasaam.com
 ||ad*.gyaloglo.hu^
 ||adverticum.*.hu^
 ||dw-informer-*.newsru.com^
-||ad*.zonaplus.tv^
 |piwik.
 ||production-adserver-*.amazonaws.com^
 ||cl*.k5a.io^
@@ -200,6 +200,7 @@ analytics-*.aasaam.com
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mediacontext.
 ||admulti.
+||stats-*.p2pnow.ru^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
 ||attr-logs.*.amazonaws.com^
@@ -418,6 +419,7 @@ analytics-*.aasaam.com
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||sdk-*.moengage.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
@@ -472,6 +474,7 @@ analytics-*.aasaam.com
 ||px*.mediahills.ru^
 ||e.missav.
 ||log-*.isnssdk.com^
+||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 ||tw-726620180914.*.run.app^
@@ -520,7 +523,6 @@ analytics-*.aasaam.com
 ||dn*.ixinwei.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
-||analytics-*-nfl.yinzcam.com^
 ||ads*.dfiles.ru^
 ||stun.*.kugou.com^
 ||admob-app-id-*.firebaseio.com^
@@ -529,7 +531,6 @@ analytics-*.aasaam.com
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
-||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -589,7 +590,6 @@ analytics-*.aasaam.com
 ||matomo.*.vn^
 ||p26.gejulm*.com^
 ||adservice.google.*^
-||static*.365inews.com^
 ||ad.kisstvshow.*^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
@@ -615,6 +615,7 @@ analytics-*.aasaam.com
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
+||ad*.zonaplus.tv^
 ||n*adserv.xyz^
 ||piwik.*.vn^
 ||logger-*.dailymotion.com^
@@ -632,7 +633,6 @@ analytics-*.aasaam.com
 ||mads*z.com^
 ||gtlpa*.com^
 ||admicro*.vcmedia.vn^
-||stats-*.p2pnow.ru^
 ||ad-host-backup-*.*.aliyuncs.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
