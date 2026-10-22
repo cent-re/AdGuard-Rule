@@ -1,4 +1,4 @@
-# Update time: 2026-10-22 10:46:50
+# Update time: 2026-10-23 00:24:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -231,7 +231,6 @@ wykop.pl$badfilter
 @@||c.office.com^|
 @@||nineto5mac-d.openx.net^|
 @@||click.avs.io^|
-||*.libaishuo.com^
 @@||click.virt.s*.exacttarget.com^|
 ://r.reklam*.com^
 @@||px.a8.net^|
@@ -306,6 +305,7 @@ wykop.pl$badfilter
 @@||s.bluecore.com^|
 @@||media-consumer365.desigual.com^|
 ://kma.biz^
+.libaishuo.com^
 @@||validate.perfdrive.com^|
 @@||link.sylikes.com^|
 /193.200.64.24:/
