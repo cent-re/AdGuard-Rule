@@ -1,4 +1,4 @@
-# Update time: 2026-11-05 12:35:53
+# Update time: 2026-11-06 03:18:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -333,6 +333,7 @@ wykop.pl$badfilter
 @@||res.ads.nicovideo.jp^|
 @@||79423.analytics.edgekey.net^|
 -720x90-
+@@||data.email.premierleague.com^|
 @@||tlh.gedidigital.it^|
 @@||pagead.l.doubleclick.net^|
 /^https:\/\/anon1.gt\d{6}.com/
