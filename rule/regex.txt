@@ -1,4 +1,4 @@
-# Update time: 2026-11-15 12:10:36
+# Update time: 2026-11-16 02:19:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -120,6 +120,7 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||log*-normal-*.tiktokv.com
 ||eflbundles.*.com.tr^
+||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||rotabanner.
@@ -140,6 +141,7 @@ analytics-*.aasaam.com
 ||putrr*.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
+||ali-bj-pcdn-*.biliapi.net^
 ||tccd.douglas.
 ||device-metrics-us*.amazon.com^
 ||cnt.nuvid.
@@ -167,6 +169,7 @@ analytics-*.aasaam.com
 ||ads*.textra.me^
 ||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
+||a*.smlog.co.kr^
 ||track.zalando.
 ||mcs-*.tiktok.com^
 ||subnewss*.net^
@@ -295,6 +298,7 @@ analytics-*.aasaam.com
 ||parkdomainreal*.site^
 ||mobiadvert*.livesportmedia.eu^
 ||livetracker.*.pangea-cms.com^
+||analytics*.prezly.com^
 ||collector.xhamster*.
 ||poptraf.
 ||union*.365inews.com^
@@ -326,6 +330,7 @@ analytics-*.aasaam.com
 ||real*traf.ru^
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||wa.gmx.
+||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||cnt.yeptube.
@@ -358,7 +363,6 @@ analytics-*.aasaam.com
 ||bar*.shinobi.jp^
 ||cs*.mp3bars.com^
 ||tracking-v*.a.run.app^
-||tracking*.euroads.fi^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
 ||advert*.livesportmedia.eu^
@@ -425,6 +429,7 @@ analytics-*.aasaam.com
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||sdk-*.moengage.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
@@ -481,7 +486,6 @@ analytics-*.aasaam.com
 ||px*.mediahills.ru^
 ||e.missav.
 ||log-*.isnssdk.com^
-||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 ||tw-726620180914.*.run.app^
@@ -530,10 +534,8 @@ analytics-*.aasaam.com
 ||dn*.ixinwei.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
-||analytics-*-nfl.yinzcam.com^
 ||ads*.dfiles.ru^
 ||stun.*.kugou.com^
-||admob-app-id-*.firebaseio.com^
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
@@ -549,11 +551,9 @@ analytics-*.aasaam.com
 ||cas.*.criteo.com^
 ||n*adserv.com^
 ||zbc6hy*.live^
-||analytics*.clickdimensions.com^
 ||mobileanalytics.*.amazonaws.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
-||ali-bj-pcdn-*.biliapi.net^
 ||a*.chajiaotong.com^
 ||gads*s.com^
 ||ad-host-backup-*.s3.*.amazonaws.com^
@@ -585,16 +585,17 @@ analytics-*.aasaam.com
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 ||ulog*.*^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
 ||analytics.*.adjust.com^
-||a*.smlog.co.kr^
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
 ||adservice.google.*^
+||static*.365inews.com^
 ||ad.kisstvshow.*^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
@@ -647,6 +648,5 @@ analytics-*.aasaam.com
 ||analytics-ad-*.kgslb.com^
 ||umami-*.sufrah.net^
 ||aj2*.bid^
-||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
